@@ -27,3 +27,7 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+
+## ER Diagram
+![ER Diagram](cms_ER.png)
+
